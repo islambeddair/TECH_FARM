@@ -1,0 +1,1475 @@
+Cmp-Mod V01 Created by PcbNew   date = 27/02/2017 11:33:52
+
+BeginCmp
+TimeStamp = 58B41CF7
+Path = 
+Reference = REF***;
+ValeurCmp = OSHW-Logo2_7.3x6mm_Copper;
+IdModule  = Symbols:OSHW-Logo2_7.3x6mm_Copper;
+EndCmp
+
+BeginCmp
+TimeStamp = 58B41CF2
+Path = 
+Reference = REF***;
+ValeurCmp = FCC-Logo_7.3x6mm_SilkScreen;
+IdModule  = Symbols:FCC-Logo_7.3x6mm_SilkScreen;
+EndCmp
+
+BeginCmp
+TimeStamp = 58B41CC8
+Path = 
+Reference = REF**;
+ValeurCmp = Symbol_CC-ShareAlike_CopperTop_Small;
+IdModule  = Symbols:Symbol_CC-ShareAlike_CopperTop_Small;
+EndCmp
+
+BeginCmp
+TimeStamp = 58B41CB8
+Path = 
+Reference = REF***;
+ValeurCmp = OSHW-Logo2_7.3x6mm_Copper;
+IdModule  = Symbols:OSHW-Logo2_7.3x6mm_Copper;
+EndCmp
+
+BeginCmp
+TimeStamp = 58B41C8E
+Path = 
+Reference = REF**;
+ValeurCmp = Symbol_CC-ShareAlike_CopperTop_Small;
+IdModule  = Symbols:Symbol_CC-ShareAlike_CopperTop_Small;
+EndCmp
+
+BeginCmp
+TimeStamp = 58B41C7A
+Path = 
+Reference = REF***;
+ValeurCmp = KiCad-Logo2_6mm_SilkScreen;
+IdModule  = Symbols:KiCad-Logo2_6mm_SilkScreen;
+EndCmp
+
+BeginCmp
+TimeStamp = 58B41C75
+Path = 
+Reference = REF***;
+ValeurCmp = FCC-Logo_7.3x6mm_SilkScreen;
+IdModule  = Symbols:FCC-Logo_7.3x6mm_SilkScreen;
+EndCmp
+
+BeginCmp
+TimeStamp = 58B41C61
+Path = 
+Reference = REF***;
+ValeurCmp = KiCad-Logo2_6mm_SilkScreen;
+IdModule  = Symbols:KiCad-Logo2_6mm_SilkScreen;
+EndCmp
+
+BeginCmp
+TimeStamp = 58B41C4D
+Path = /58AFCFA0
+Reference = P4;
+ValeurCmp = isp2;
+IdModule  = Pin_Headers:Pin_Header_Straight_1x03_Pitch2.54mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 58B41C39
+Path = /58B06475
+Reference = P7;
+ValeurCmp = isp2;
+IdModule  = Pin_Headers:Pin_Header_Straight_1x03_Pitch2.54mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 58B41C1C
+Path = /58ADD60E
+Reference = SW1;
+ValeurCmp = SW_PUSH;
+IdModule  = Buttons_Switches_ThroughHole:SW_PUSH_6mm_h4.3mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 58B41BFA
+Path = /58B1692C
+Reference = wifi_modul1;
+ValeurCmp = ESP8266;
+IdModule  = Esp12:esp12;
+EndCmp
+
+BeginCmp
+TimeStamp = 58B41BE3
+Path = /58AFB455
+Reference = P11;
+ValeurCmp = gsm module;
+IdModule  = Pin_Headers:Pin_Header_Straight_1x06_Pitch2.54mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 58B41BD3
+Path = 
+Reference = REF**;
+ValeurCmp = R_1206;
+IdModule  = Resistors_SMD:R_1206;
+EndCmp
+
+BeginCmp
+TimeStamp = 58B41B52
+Path = /58AED96E
+Reference = P5;
+ValeurCmp = temp_sensor;
+IdModule  = Connect:AK300-3;
+EndCmp
+
+BeginCmp
+TimeStamp = 58B41AD1
+Path = /58AED986
+Reference = P6;
+ValeurCmp = air_sensor;
+IdModule  = Connect:AK300-3;
+EndCmp
+
+BeginCmp
+TimeStamp = 58B41AC1
+Path = 
+Reference = REF**;
+ValeurCmp = R_1206;
+IdModule  = Resistors_SMD:R_1206;
+EndCmp
+
+BeginCmp
+TimeStamp = 58B41AB1
+Path = 
+Reference = REF**;
+ValeurCmp = R_1206;
+IdModule  = Resistors_SMD:R_1206;
+EndCmp
+
+BeginCmp
+TimeStamp = 58B41A9F
+Path = /58AF5970
+Reference = D2;
+ValeurCmp = Led_Small;
+IdModule  = LEDs:LED_D3.0mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 58B41A1E
+Path = /58AF930F
+Reference = P3;
+ValeurCmp = salty_sensor;
+IdModule  = Connect:AK300-3;
+EndCmp
+
+BeginCmp
+TimeStamp = 58B41A0A
+Path = /58AFD53E
+Reference = P9;
+ValeurCmp = isp1;
+IdModule  = Pin_Headers:Pin_Header_Straight_1x03_Pitch2.54mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 58B419FA
+Path = 
+Reference = REF**;
+ValeurCmp = R_1206;
+IdModule  = Resistors_SMD:R_1206;
+EndCmp
+
+BeginCmp
+TimeStamp = 58B419EF
+Path = 
+Reference = REF**;
+ValeurCmp = EuroBoard_halb_Type-I_100mmX80mm_holes;
+IdModule  = Smart agri lab:EuroBoard_halb_Type-I_80mmX75mm_holes_pcb;
+EndCmp
+
+BeginCmp
+TimeStamp = 58B4196E
+Path = /58B0EC78
+Reference = P1;
+ValeurCmp = soil_sensor;
+IdModule  = Connect:AK300-3;
+EndCmp
+
+BeginCmp
+TimeStamp = 58B41959
+Path = /58AF4BD2
+Reference = P8;
+ValeurCmp = CONN_01X04;
+IdModule  = Pin_Headers:Pin_Header_Straight_1x04_Pitch2.54mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 58B41946
+Path = /58AF15EA
+Reference = C6;
+ValeurCmp = C_Small;
+IdModule  = Capacitors_ThroughHole:C_Disc_D3.0mm_W2.0mm_P2.50mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 58B41936
+Path = /58B0B577
+Reference = C2;
+ValeurCmp = 100nf;
+IdModule  = Capacitors_SMD:C_1206_HandSoldering;
+EndCmp
+
+BeginCmp
+TimeStamp = 58B41921
+Path = /58AF10A1
+Reference = Y1;
+ValeurCmp = Crystal_Small;
+IdModule  = Crystals:Resonator-2pin_w7.0mm_h2.5mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 58B4190E
+Path = /58AF16B2
+Reference = C8;
+ValeurCmp = C_Small;
+IdModule  = Capacitors_ThroughHole:C_Disc_D3.0mm_W2.0mm_P2.50mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 58B418F0
+Path = /58ADD4AC
+Reference = J1;
+ValeurCmp = JACK_2P;
+IdModule  = Connect:BARREL_JACK;
+EndCmp
+
+BeginCmp
+TimeStamp = 58B418E0
+Path = /58AF4DF5
+Reference = R2;
+ValeurCmp = 1k;
+IdModule  = Resistors_SMD:R_1206_HandSoldering;
+EndCmp
+
+BeginCmp
+TimeStamp = 58B418D0
+Path = 
+Reference = REF**;
+ValeurCmp = R_1206;
+IdModule  = Resistors_SMD:R_1206;
+EndCmp
+
+BeginCmp
+TimeStamp = 58B418BB
+Path = /58AFEED0
+Reference = P10;
+ValeurCmp = I2C;
+IdModule  = Pin_Headers:Pin_Header_Straight_1x04_Pitch2.54mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 58B418AB
+Path = /58ADD578
+Reference = R1;
+ValeurCmp = R;
+IdModule  = Resistors_SMD:R_1206_HandSoldering;
+EndCmp
+
+BeginCmp
+TimeStamp = 58B4189A
+Path = /58B01407
+Reference = SW2;
+ValeurCmp = SPST;
+IdModule  = Buttons_Switches_ThroughHole:SW_PUSH_x2;
+EndCmp
+
+BeginCmp
+TimeStamp = 58B41886
+Path = /58AEEFF7
+Reference = U1;
+ValeurCmp = LT1117-3.3;
+IdModule  = TO_SOT_Packages_SMD:SOT-223;
+EndCmp
+
+BeginCmp
+TimeStamp = 58B41876
+Path = /58B3AF66
+Reference = C4;
+ValeurCmp = 10uf;
+IdModule  = Capacitors_SMD:C_1206_HandSoldering;
+EndCmp
+
+BeginCmp
+TimeStamp = 58B41864
+Path = /58AF4746
+Reference = D1;
+ValeurCmp = Led_Small;
+IdModule  = LEDs:LED_D3.0mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 58B41854
+Path = /58B3A8A0
+Reference = C5;
+ValeurCmp = 10uf;
+IdModule  = Capacitors_SMD:C_1206_HandSoldering;
+EndCmp
+
+BeginCmp
+TimeStamp = 58B41844
+Path = /58B3D855
+Reference = C7;
+ValeurCmp = 100nf;
+IdModule  = Capacitors_SMD:C_1206_HandSoldering;
+EndCmp
+
+BeginCmp
+TimeStamp = 58B41834
+Path = /58AF61A2
+Reference = R3;
+ValeurCmp = 1k;
+IdModule  = Resistors_SMD:R_1206_HandSoldering;
+EndCmp
+
+BeginCmp
+TimeStamp = 58B417FE
+Path = /58ADC912
+Reference = IC1;
+ValeurCmp = ATMEGA328P-M;
+IdModule  = Housings_QFP:TQFP-32_7x7mm_Pitch0.8mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 58B417ED
+Path = /58AE77CA
+Reference = C1;
+ValeurCmp = 100nf;
+IdModule  = Capacitors_ThroughHole:C_Disc_D7.0mm_W2.5mm_P5.00mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 58B417D6
+Path = /58ADD745
+Reference = P2;
+ValeurCmp = USB_to_TTL;
+IdModule  = Pin_Headers:Pin_Header_Straight_1x06_Pitch2.54mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 58B417C6
+Path = /58ADD406
+Reference = C3;
+ValeurCmp = 100nf;
+IdModule  = Capacitors_SMD:C_1206_HandSoldering;
+EndCmp
+
+BeginCmp
+TimeStamp = 58B417B6
+Path = 
+Reference = REF**;
+ValeurCmp = R_1206;
+IdModule  = Resistors_SMD:R_1206;
+EndCmp
+
+BeginCmp
+TimeStamp = 58B417A6
+Path = 
+Reference = REF**;
+ValeurCmp = R_1206;
+IdModule  = Resistors_SMD:R_1206;
+EndCmp
+
+BeginCmp
+TimeStamp = 58B41796
+Path = /58AF6FEC
+Reference = R5;
+ValeurCmp = 10k;
+IdModule  = Resistors_SMD:R_1206_HandSoldering;
+EndCmp
+
+BeginCmp
+TimeStamp = 58B41786
+Path = /58AF6F2D
+Reference = R4;
+ValeurCmp = 10k;
+IdModule  = Resistors_SMD:R_1206_HandSoldering;
+EndCmp
+
+BeginCmp
+TimeStamp = 58B41776
+Path = 
+Reference = REF**;
+ValeurCmp = R_1206;
+IdModule  = Resistors_SMD:R_1206;
+EndCmp
+
+BeginCmp
+TimeStamp = 58B41766
+Path = 
+Reference = REF**;
+ValeurCmp = R_1206;
+IdModule  = Resistors_SMD:R_1206;
+EndCmp
+
+BeginCmp
+TimeStamp = 58B416E5
+Path = /58AED96E
+Reference = P5;
+ValeurCmp = temp_sensor;
+IdModule  = Connect:AK300-3;
+EndCmp
+
+BeginCmp
+TimeStamp = 58B41664
+Path = /58AF930F
+Reference = P3;
+ValeurCmp = salty_sensor;
+IdModule  = Connect:AK300-3;
+EndCmp
+
+BeginCmp
+TimeStamp = 58B415E3
+Path = /58AED986
+Reference = P6;
+ValeurCmp = air_sensor;
+IdModule  = Connect:AK300-3;
+EndCmp
+
+BeginCmp
+TimeStamp = 58B41562
+Path = /58B0EC78
+Reference = P1;
+ValeurCmp = soil_sensor;
+IdModule  = Connect:AK300-3;
+EndCmp
+
+BeginCmp
+TimeStamp = 58B41557
+Path = 
+Reference = REF**;
+ValeurCmp = EuroBoard_halb_Type-I_100mmX80mm_holes;
+IdModule  = Smart agri lab:EuroBoard_halb_Type-I_80mmX75mm_holes_pcb;
+EndCmp
+
+BeginCmp
+TimeStamp = 58B41547
+Path = 
+Reference = REF**;
+ValeurCmp = R_1206;
+IdModule  = Resistors_SMD:R_1206;
+EndCmp
+
+BeginCmp
+TimeStamp = 58B41537
+Path = 
+Reference = REF**;
+ValeurCmp = R_1206;
+IdModule  = Resistors_SMD:R_1206;
+EndCmp
+
+BeginCmp
+TimeStamp = 58B41515
+Path = /58B1692C
+Reference = wifi_modul1;
+ValeurCmp = ESP8266;
+IdModule  = Esp12:esp12;
+EndCmp
+
+BeginCmp
+TimeStamp = 58B414F8
+Path = /58ADD60E
+Reference = SW1;
+ValeurCmp = SW_PUSH;
+IdModule  = Buttons_Switches_ThroughHole:SW_PUSH_6mm_h4.3mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 58B414E4
+Path = /58B06475
+Reference = P7;
+ValeurCmp = isp2;
+IdModule  = Pin_Headers:Pin_Header_Straight_1x03_Pitch2.54mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 58B414C6
+Path = /58ADD4AC
+Reference = J1;
+ValeurCmp = JACK_2P;
+IdModule  = Connect:BARREL_JACK;
+EndCmp
+
+BeginCmp
+TimeStamp = 58B414B1
+Path = /58AF4BD2
+Reference = P8;
+ValeurCmp = CONN_01X04;
+IdModule  = Pin_Headers:Pin_Header_Straight_1x04_Pitch2.54mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 58B4149D
+Path = /58AFD53E
+Reference = P9;
+ValeurCmp = isp1;
+IdModule  = Pin_Headers:Pin_Header_Straight_1x03_Pitch2.54mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 58B41489
+Path = /58AFCFA0
+Reference = P4;
+ValeurCmp = isp2;
+IdModule  = Pin_Headers:Pin_Header_Straight_1x03_Pitch2.54mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 58B41479
+Path = /58AF61A2
+Reference = R3;
+ValeurCmp = 1k;
+IdModule  = Resistors_SMD:R_1206_HandSoldering;
+EndCmp
+
+BeginCmp
+TimeStamp = 58B41469
+Path = /58ADD406
+Reference = C3;
+ValeurCmp = 100nf;
+IdModule  = Capacitors_SMD:C_1206_HandSoldering;
+EndCmp
+
+BeginCmp
+TimeStamp = 58B41459
+Path = 
+Reference = REF**;
+ValeurCmp = R_1206;
+IdModule  = Resistors_SMD:R_1206;
+EndCmp
+
+BeginCmp
+TimeStamp = 58B41449
+Path = 
+Reference = REF**;
+ValeurCmp = R_1206;
+IdModule  = Resistors_SMD:R_1206;
+EndCmp
+
+BeginCmp
+TimeStamp = 58B41437
+Path = /58AF5970
+Reference = D2;
+ValeurCmp = Led_Small;
+IdModule  = LEDs:LED_D3.0mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 58B41424
+Path = /58AF15EA
+Reference = C6;
+ValeurCmp = C_Small;
+IdModule  = Capacitors_ThroughHole:C_Disc_D3.0mm_W2.0mm_P2.50mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 58B4140D
+Path = /58AFB455
+Reference = P11;
+ValeurCmp = gsm module;
+IdModule  = Pin_Headers:Pin_Header_Straight_1x06_Pitch2.54mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 58B413FA
+Path = /58AF16B2
+Reference = C8;
+ValeurCmp = C_Small;
+IdModule  = Capacitors_ThroughHole:C_Disc_D3.0mm_W2.0mm_P2.50mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 58B413E5
+Path = /58AF10A1
+Reference = Y1;
+ValeurCmp = Crystal_Small;
+IdModule  = Crystals:Resonator-2pin_w7.0mm_h2.5mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 58B413D0
+Path = /58AFEED0
+Reference = P10;
+ValeurCmp = I2C;
+IdModule  = Pin_Headers:Pin_Header_Straight_1x04_Pitch2.54mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 58B413C0
+Path = /58AF6FEC
+Reference = R5;
+ValeurCmp = 10k;
+IdModule  = Resistors_SMD:R_1206_HandSoldering;
+EndCmp
+
+BeginCmp
+TimeStamp = 58B413A9
+Path = /58ADD745
+Reference = P2;
+ValeurCmp = USB_to_TTL;
+IdModule  = Pin_Headers:Pin_Header_Straight_1x06_Pitch2.54mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 58B41373
+Path = /58ADC912
+Reference = IC1;
+ValeurCmp = ATMEGA328P-M;
+IdModule  = Housings_QFP:TQFP-32_7x7mm_Pitch0.8mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 58B4135F
+Path = /58AEEFF7
+Reference = U1;
+ValeurCmp = LT1117-3.3;
+IdModule  = TO_SOT_Packages_SMD:SOT-223;
+EndCmp
+
+BeginCmp
+TimeStamp = 58B4134F
+Path = /58AF4DF5
+Reference = R2;
+ValeurCmp = 1k;
+IdModule  = Resistors_SMD:R_1206_HandSoldering;
+EndCmp
+
+BeginCmp
+TimeStamp = 58B4133F
+Path = /58ADD578
+Reference = R1;
+ValeurCmp = R;
+IdModule  = Resistors_SMD:R_1206_HandSoldering;
+EndCmp
+
+BeginCmp
+TimeStamp = 58B4132D
+Path = /58AF4746
+Reference = D1;
+ValeurCmp = Led_Small;
+IdModule  = LEDs:LED_D3.0mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 58B4131D
+Path = /58B3D855
+Reference = C7;
+ValeurCmp = 100nf;
+IdModule  = Capacitors_SMD:C_1206_HandSoldering;
+EndCmp
+
+BeginCmp
+TimeStamp = 58B4130C
+Path = /58B01407
+Reference = SW2;
+ValeurCmp = SPST;
+IdModule  = Buttons_Switches_ThroughHole:SW_PUSH_x2;
+EndCmp
+
+BeginCmp
+TimeStamp = 58B412FC
+Path = /58B0B577
+Reference = C2;
+ValeurCmp = 100nf;
+IdModule  = Capacitors_SMD:C_1206_HandSoldering;
+EndCmp
+
+BeginCmp
+TimeStamp = 58B412EB
+Path = /58AE77CA
+Reference = C1;
+ValeurCmp = 100nf;
+IdModule  = Capacitors_ThroughHole:C_Disc_D7.0mm_W2.5mm_P5.00mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 58B412DB
+Path = /58B3AF66
+Reference = C4;
+ValeurCmp = 10uf;
+IdModule  = Capacitors_SMD:C_1206_HandSoldering;
+EndCmp
+
+BeginCmp
+TimeStamp = 58B412CB
+Path = /58B3A8A0
+Reference = C5;
+ValeurCmp = 10uf;
+IdModule  = Capacitors_SMD:C_1206_HandSoldering;
+EndCmp
+
+BeginCmp
+TimeStamp = 58B412BB
+Path = 
+Reference = REF**;
+ValeurCmp = R_1206;
+IdModule  = Resistors_SMD:R_1206;
+EndCmp
+
+BeginCmp
+TimeStamp = 58B412AB
+Path = /58AF6F2D
+Reference = R4;
+ValeurCmp = 10k;
+IdModule  = Resistors_SMD:R_1206_HandSoldering;
+EndCmp
+
+BeginCmp
+TimeStamp = 58B4129B
+Path = 
+Reference = REF**;
+ValeurCmp = R_1206;
+IdModule  = Resistors_SMD:R_1206;
+EndCmp
+
+BeginCmp
+TimeStamp = 58B4128B
+Path = 
+Reference = REF**;
+ValeurCmp = R_1206;
+IdModule  = Resistors_SMD:R_1206;
+EndCmp
+
+BeginCmp
+TimeStamp = 58B3FB82
+Path = 
+Reference = REF**;
+ValeurCmp = Symbol_CC-ShareAlike_CopperTop_Small;
+IdModule  = Symbols:Symbol_CC-ShareAlike_CopperTop_Small;
+EndCmp
+
+BeginCmp
+TimeStamp = 58B3FB6E
+Path = 
+Reference = REF***;
+ValeurCmp = KiCad-Logo2_6mm_SilkScreen;
+IdModule  = Symbols:KiCad-Logo2_6mm_SilkScreen;
+EndCmp
+
+BeginCmp
+TimeStamp = 58B3FB5E
+Path = 
+Reference = REF***;
+ValeurCmp = OSHW-Logo2_7.3x6mm_Copper;
+IdModule  = Symbols:OSHW-Logo2_7.3x6mm_Copper;
+EndCmp
+
+BeginCmp
+TimeStamp = 58B3FB59
+Path = 
+Reference = REF***;
+ValeurCmp = FCC-Logo_7.3x6mm_SilkScreen;
+IdModule  = Symbols:FCC-Logo_7.3x6mm_SilkScreen;
+EndCmp
+
+BeginCmp
+TimeStamp = 58B3FB49
+Path = 
+Reference = REF**;
+ValeurCmp = R_1206;
+IdModule  = Resistors_SMD:R_1206;
+EndCmp
+
+BeginCmp
+TimeStamp = 58B3FB39
+Path = 
+Reference = REF**;
+ValeurCmp = R_1206;
+IdModule  = Resistors_SMD:R_1206;
+EndCmp
+
+BeginCmp
+TimeStamp = 58B3FB29
+Path = /58AF61A2
+Reference = R3;
+ValeurCmp = 1k;
+IdModule  = Resistors_SMD:R_1206_HandSoldering;
+EndCmp
+
+BeginCmp
+TimeStamp = 58B3FB15
+Path = /58AFD53E
+Reference = P9;
+ValeurCmp = isp1;
+IdModule  = Pin_Headers:Pin_Header_Straight_1x03_Pitch2.54mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 58B3FB0A
+Path = 
+Reference = REF**;
+ValeurCmp = EuroBoard_halb_Type-I_100mmX80mm_holes;
+IdModule  = Smart agri lab:EuroBoard_halb_Type-I_80mmX75mm_holes_pcb;
+EndCmp
+
+BeginCmp
+TimeStamp = 58B3FA89
+Path = /58AED986
+Reference = P6;
+ValeurCmp = air_sensor;
+IdModule  = Connect:AK300-3;
+EndCmp
+
+BeginCmp
+TimeStamp = 58B3FA08
+Path = /58AED96E
+Reference = P5;
+ValeurCmp = temp_sensor;
+IdModule  = Connect:AK300-3;
+EndCmp
+
+BeginCmp
+TimeStamp = 58B3F9F4
+Path = /58AEEFF7
+Reference = U1;
+ValeurCmp = LT1117-3.3;
+IdModule  = TO_SOT_Packages_SMD:SOT-223;
+EndCmp
+
+BeginCmp
+TimeStamp = 58B3F9DF
+Path = /58AF4BD2
+Reference = P8;
+ValeurCmp = CONN_01X04;
+IdModule  = Pin_Headers:Pin_Header_Straight_1x04_Pitch2.54mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 58B3F95E
+Path = /58B0EC78
+Reference = P1;
+ValeurCmp = soil_sensor;
+IdModule  = Connect:AK300-3;
+EndCmp
+
+BeginCmp
+TimeStamp = 58B3F8DD
+Path = /58AF930F
+Reference = P3;
+ValeurCmp = salty_sensor;
+IdModule  = Connect:AK300-3;
+EndCmp
+
+BeginCmp
+TimeStamp = 58B3F8CB
+Path = /58AF5970
+Reference = D2;
+ValeurCmp = Led_Small;
+IdModule  = LEDs:LED_D3.0mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 58B3F8BB
+Path = 
+Reference = REF**;
+ValeurCmp = R_1206;
+IdModule  = Resistors_SMD:R_1206;
+EndCmp
+
+BeginCmp
+TimeStamp = 58B3F8AB
+Path = /58ADD406
+Reference = C3;
+ValeurCmp = 100nf;
+IdModule  = Capacitors_SMD:C_1206_HandSoldering;
+EndCmp
+
+BeginCmp
+TimeStamp = 58B3F89B
+Path = 
+Reference = REF**;
+ValeurCmp = R_1206;
+IdModule  = Resistors_SMD:R_1206;
+EndCmp
+
+BeginCmp
+TimeStamp = 58B3F879
+Path = /58B1692C
+Reference = wifi_modul1;
+ValeurCmp = ESP8266;
+IdModule  = Esp12:esp12;
+EndCmp
+
+BeginCmp
+TimeStamp = 58B3F866
+Path = /58AF16B2
+Reference = C8;
+ValeurCmp = C_Small;
+IdModule  = Capacitors_ThroughHole:C_Disc_D3.0mm_W2.0mm_P2.50mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 58B3F830
+Path = /58ADC912
+Reference = IC1;
+ValeurCmp = ATMEGA328P-M;
+IdModule  = Housings_QFP:TQFP-32_7x7mm_Pitch0.8mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 58B3F820
+Path = /58B0B577
+Reference = C2;
+ValeurCmp = 100nf;
+IdModule  = Capacitors_SMD:C_1206_HandSoldering;
+EndCmp
+
+BeginCmp
+TimeStamp = 58B3F80C
+Path = /58AFCFA0
+Reference = P4;
+ValeurCmp = isp2;
+IdModule  = Pin_Headers:Pin_Header_Straight_1x03_Pitch2.54mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 58B3F7F8
+Path = /58B06475
+Reference = P7;
+ValeurCmp = isp2;
+IdModule  = Pin_Headers:Pin_Header_Straight_1x03_Pitch2.54mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 58B3F7E1
+Path = /58AFB455
+Reference = P11;
+ValeurCmp = gsm module;
+IdModule  = Pin_Headers:Pin_Header_Straight_1x06_Pitch2.54mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 58B3F7CE
+Path = /58AF15EA
+Reference = C6;
+ValeurCmp = C_Small;
+IdModule  = Capacitors_ThroughHole:C_Disc_D3.0mm_W2.0mm_P2.50mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 58B3F7B9
+Path = /58AF10A1
+Reference = Y1;
+ValeurCmp = Crystal_Small;
+IdModule  = Crystals:Resonator-2pin_w7.0mm_h2.5mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 58B3F79C
+Path = /58ADD60E
+Reference = SW1;
+ValeurCmp = SW_PUSH;
+IdModule  = Buttons_Switches_ThroughHole:SW_PUSH_6mm_h4.3mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 58B3F78C
+Path = /58AF4DF5
+Reference = R2;
+ValeurCmp = 1k;
+IdModule  = Resistors_SMD:R_1206_HandSoldering;
+EndCmp
+
+BeginCmp
+TimeStamp = 58B3F77C
+Path = 
+Reference = REF**;
+ValeurCmp = R_1206;
+IdModule  = Resistors_SMD:R_1206;
+EndCmp
+
+BeginCmp
+TimeStamp = 58B3F76C
+Path = /58ADD578
+Reference = R1;
+ValeurCmp = R;
+IdModule  = Resistors_SMD:R_1206_HandSoldering;
+EndCmp
+
+BeginCmp
+TimeStamp = 58B3F75B
+Path = /58B01407
+Reference = SW2;
+ValeurCmp = SPST;
+IdModule  = Buttons_Switches_ThroughHole:SW_PUSH_x2;
+EndCmp
+
+BeginCmp
+TimeStamp = 58B3F749
+Path = /58AF4746
+Reference = D1;
+ValeurCmp = Led_Small;
+IdModule  = LEDs:LED_D3.0mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 58B3F739
+Path = /58B3AF66
+Reference = C4;
+ValeurCmp = 10uf;
+IdModule  = Capacitors_SMD:C_1206_HandSoldering;
+EndCmp
+
+BeginCmp
+TimeStamp = 58B3F71B
+Path = /58ADD4AC
+Reference = J1;
+ValeurCmp = JACK_2P;
+IdModule  = Connect:BARREL_JACK;
+EndCmp
+
+BeginCmp
+TimeStamp = 58B3F70B
+Path = /58B3D855
+Reference = C7;
+ValeurCmp = 100nf;
+IdModule  = Capacitors_SMD:C_1206_HandSoldering;
+EndCmp
+
+BeginCmp
+TimeStamp = 58B3F6FB
+Path = /58B3A8A0
+Reference = C5;
+ValeurCmp = 10uf;
+IdModule  = Capacitors_SMD:C_1206_HandSoldering;
+EndCmp
+
+BeginCmp
+TimeStamp = 58B3F6E6
+Path = /58AFEED0
+Reference = P10;
+ValeurCmp = I2C;
+IdModule  = Pin_Headers:Pin_Header_Straight_1x04_Pitch2.54mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 58B3F6D6
+Path = /58AF6F2D
+Reference = R4;
+ValeurCmp = 10k;
+IdModule  = Resistors_SMD:R_1206_HandSoldering;
+EndCmp
+
+BeginCmp
+TimeStamp = 58B3F6BF
+Path = /58ADD745
+Reference = P2;
+ValeurCmp = USB_to_TTL;
+IdModule  = Pin_Headers:Pin_Header_Straight_1x06_Pitch2.54mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 58B3F6AE
+Path = /58AE77CA
+Reference = C1;
+ValeurCmp = 100nf;
+IdModule  = Capacitors_ThroughHole:C_Disc_D7.0mm_W2.5mm_P5.00mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 58B3F69E
+Path = 
+Reference = REF**;
+ValeurCmp = R_1206;
+IdModule  = Resistors_SMD:R_1206;
+EndCmp
+
+BeginCmp
+TimeStamp = 58B3F68E
+Path = 
+Reference = REF**;
+ValeurCmp = R_1206;
+IdModule  = Resistors_SMD:R_1206;
+EndCmp
+
+BeginCmp
+TimeStamp = 58B3F67E
+Path = 
+Reference = REF**;
+ValeurCmp = R_1206;
+IdModule  = Resistors_SMD:R_1206;
+EndCmp
+
+BeginCmp
+TimeStamp = 58B3F66E
+Path = /58AF6FEC
+Reference = R5;
+ValeurCmp = 10k;
+IdModule  = Resistors_SMD:R_1206_HandSoldering;
+EndCmp
+
+BeginCmp
+TimeStamp = 58AF6132
+Path = /58B01407
+Reference = SW2;
+ValeurCmp = SPST;
+IdModule  = Buttons_Switches_ThroughHole:SW_PUSH_x2;
+EndCmp
+
+BeginCmp
+TimeStamp = 58AF8AB6
+Path = 
+Reference = REF**;
+ValeurCmp = R_1206;
+IdModule  = Resistors_SMD:R_1206;
+EndCmp
+
+BeginCmp
+TimeStamp = 58AF8AA6
+Path = 
+Reference = REF**;
+ValeurCmp = R_1206;
+IdModule  = Resistors_SMD:R_1206;
+EndCmp
+
+BeginCmp
+TimeStamp = 58AF86A2
+Path = /58AFB455
+Reference = P11;
+ValeurCmp = gsm module;
+IdModule  = Pin_Headers:Pin_Header_Straight_1x06_Pitch2.54mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 58AF8374
+Path = 
+Reference = REF**;
+ValeurCmp = R_1206;
+IdModule  = Resistors_SMD:R_1206;
+EndCmp
+
+BeginCmp
+TimeStamp = 58AF8262
+Path = 
+Reference = REF**;
+ValeurCmp = R_1206;
+IdModule  = Resistors_SMD:R_1206;
+EndCmp
+
+BeginCmp
+TimeStamp = 58AF81CE
+Path = 
+Reference = REF**;
+ValeurCmp = R_1206;
+IdModule  = Resistors_SMD:R_1206;
+EndCmp
+
+BeginCmp
+TimeStamp = 58AF5F68
+Path = /58AFCFA0
+Reference = P4;
+ValeurCmp = isp2;
+IdModule  = Pin_Headers:Pin_Header_Straight_1x03_Pitch2.54mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 58AF8092
+Path = 
+Reference = REF**;
+ValeurCmp = R_1206;
+IdModule  = Resistors_SMD:R_1206;
+EndCmp
+
+BeginCmp
+TimeStamp = 58AF8082
+Path = 
+Reference = REF**;
+ValeurCmp = R_1206;
+IdModule  = Resistors_SMD:R_1206;
+EndCmp
+
+BeginCmp
+TimeStamp = 58AF5D3E
+Path = /58AE77CA
+Reference = C1;
+ValeurCmp = 100nf;
+IdModule  = Capacitors_ThroughHole:C_Disc_D7.0mm_W2.5mm_P5.00mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 58AF5D4F
+Path = /58B0B577
+Reference = C2;
+ValeurCmp = 100nf;
+IdModule  = Capacitors_SMD:C_1206_HandSoldering;
+EndCmp
+
+BeginCmp
+TimeStamp = 58AF5D60
+Path = /58ADD406
+Reference = C3;
+ValeurCmp = 100nf;
+IdModule  = Capacitors_SMD:C_1206_HandSoldering;
+EndCmp
+
+BeginCmp
+TimeStamp = 58AF5D71
+Path = /58B3AF66
+Reference = C4;
+ValeurCmp = 10uf;
+IdModule  = Capacitors_SMD:C_1206_HandSoldering;
+EndCmp
+
+BeginCmp
+TimeStamp = 58AF5D82
+Path = /58B3A8A0
+Reference = C5;
+ValeurCmp = 10uf;
+IdModule  = Capacitors_SMD:C_1206_HandSoldering;
+EndCmp
+
+BeginCmp
+TimeStamp = 58AF5D96
+Path = /58AF15EA
+Reference = C6;
+ValeurCmp = C_Small;
+IdModule  = Capacitors_ThroughHole:C_Disc_D3.0mm_W2.0mm_P2.50mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 58AF5DA7
+Path = /58B3D855
+Reference = C7;
+ValeurCmp = 100nf;
+IdModule  = Capacitors_SMD:C_1206_HandSoldering;
+EndCmp
+
+BeginCmp
+TimeStamp = 58AF5DBB
+Path = /58AF16B2
+Reference = C8;
+ValeurCmp = C_Small;
+IdModule  = Capacitors_ThroughHole:C_Disc_D3.0mm_W2.0mm_P2.50mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 58AF5DCE
+Path = /58AF4746
+Reference = D1;
+ValeurCmp = Led_Small;
+IdModule  = LEDs:LED_D3.0mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 58AF5DE1
+Path = /58AF5970
+Reference = D2;
+ValeurCmp = Led_Small;
+IdModule  = LEDs:LED_D3.0mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 58AF5E18
+Path = /58ADC912
+Reference = IC1;
+ValeurCmp = ATMEGA328P-M;
+IdModule  = Housings_QFP:TQFP-32_7x7mm_Pitch0.8mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 58AF5E37
+Path = /58ADD4AC
+Reference = J1;
+ValeurCmp = JACK_2P;
+IdModule  = Connect:BARREL_JACK;
+EndCmp
+
+BeginCmp
+TimeStamp = 58AF5EB9
+Path = /58B0EC78
+Reference = P1;
+ValeurCmp = soil_sensor;
+IdModule  = Connect:AK300-3;
+EndCmp
+
+BeginCmp
+TimeStamp = 58AF5ED1
+Path = /58ADD745
+Reference = P2;
+ValeurCmp = USB_to_TTL;
+IdModule  = Pin_Headers:Pin_Header_Straight_1x06_Pitch2.54mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 58AF5F53
+Path = /58AF930F
+Reference = P3;
+ValeurCmp = salty_sensor;
+IdModule  = Connect:AK300-3;
+EndCmp
+
+BeginCmp
+TimeStamp = 58AF5FEA
+Path = /58AED96E
+Reference = P5;
+ValeurCmp = temp_sensor;
+IdModule  = Connect:AK300-3;
+EndCmp
+
+BeginCmp
+TimeStamp = 58AF606C
+Path = /58AED986
+Reference = P6;
+ValeurCmp = air_sensor;
+IdModule  = Connect:AK300-3;
+EndCmp
+
+BeginCmp
+TimeStamp = 58AF6098
+Path = /58AF4BD2
+Reference = P8;
+ValeurCmp = CONN_01X04;
+IdModule  = Pin_Headers:Pin_Header_Straight_1x04_Pitch2.54mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 58AF60AD
+Path = /58AFD53E
+Reference = P9;
+ValeurCmp = isp1;
+IdModule  = Pin_Headers:Pin_Header_Straight_1x03_Pitch2.54mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 58AF60BE
+Path = /58ADD578
+Reference = R1;
+ValeurCmp = R;
+IdModule  = Resistors_SMD:R_1206_HandSoldering;
+EndCmp
+
+BeginCmp
+TimeStamp = 58AF60CF
+Path = /58AF4DF5
+Reference = R2;
+ValeurCmp = 1k;
+IdModule  = Resistors_SMD:R_1206_HandSoldering;
+EndCmp
+
+BeginCmp
+TimeStamp = 58AF60E0
+Path = /58AF61A2
+Reference = R3;
+ValeurCmp = 1k;
+IdModule  = Resistors_SMD:R_1206_HandSoldering;
+EndCmp
+
+BeginCmp
+TimeStamp = 58AF60F1
+Path = /58AF6F2D
+Reference = R4;
+ValeurCmp = 10k;
+IdModule  = Resistors_SMD:R_1206_HandSoldering;
+EndCmp
+
+BeginCmp
+TimeStamp = 58AF6102
+Path = /58AF6FEC
+Reference = R5;
+ValeurCmp = 10k;
+IdModule  = Resistors_SMD:R_1206_HandSoldering;
+EndCmp
+
+BeginCmp
+TimeStamp = 58AF6120
+Path = /58ADD60E
+Reference = SW1;
+ValeurCmp = SW_PUSH;
+IdModule  = Buttons_Switches_ThroughHole:SW_PUSH_6mm_h4.3mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 58AF6147
+Path = /58AEEFF7
+Reference = U1;
+ValeurCmp = LT1117-3.3;
+IdModule  = TO_SOT_Packages_SMD:SOT-223;
+EndCmp
+
+BeginCmp
+TimeStamp = 58AF616A
+Path = /58B1692C
+Reference = wifi_modul1;
+ValeurCmp = ESP8266;
+IdModule  = Esp12:esp12;
+EndCmp
+
+BeginCmp
+TimeStamp = 58AF6180
+Path = /58AF10A1
+Reference = Y1;
+ValeurCmp = Crystal_Small;
+IdModule  = Crystals:Resonator-2pin_w7.0mm_h2.5mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 58AF806F
+Path = 
+Reference = REF**;
+ValeurCmp = R_1206;
+IdModule  = Resistors_SMD:R_1206;
+EndCmp
+
+BeginCmp
+TimeStamp = 58AF868A
+Path = /58AFEED0
+Reference = P10;
+ValeurCmp = I2C;
+IdModule  = Pin_Headers:Pin_Header_Straight_1x04_Pitch2.54mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 58AF8A89
+Path = /58B06475
+Reference = P7;
+ValeurCmp = isp2;
+IdModule  = Pin_Headers:Pin_Header_Straight_1x03_Pitch2.54mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 58AF8BCA
+Path = 
+Reference = REF***;
+ValeurCmp = FCC-Logo_7.3x6mm_SilkScreen;
+IdModule  = Symbols:FCC-Logo_7.3x6mm_SilkScreen;
+EndCmp
+
+BeginCmp
+TimeStamp = 58AF8BD9
+Path = 
+Reference = REF***;
+ValeurCmp = KiCad-Logo2_6mm_SilkScreen;
+IdModule  = Symbols:KiCad-Logo2_6mm_SilkScreen;
+EndCmp
+
+BeginCmp
+TimeStamp = 58AF8DAD
+Path = 
+Reference = REF***;
+ValeurCmp = OSHW-Logo2_7.3x6mm_Copper;
+IdModule  = Symbols:OSHW-Logo2_7.3x6mm_Copper;
+EndCmp
+
+BeginCmp
+TimeStamp = 58B04925
+Path = 
+Reference = REF**;
+ValeurCmp = EuroBoard_halb_Type-I_100mmX80mm_holes;
+IdModule  = Smart agri lab:EuroBoard_halb_Type-I_80mmX75mm_holes_pcb;
+EndCmp
+
+BeginCmp
+TimeStamp = 58B04E58
+Path = 
+Reference = REF**;
+ValeurCmp = Symbol_CC-ShareAlike_CopperTop_Small;
+IdModule  = Symbols:Symbol_CC-ShareAlike_CopperTop_Small;
+EndCmp
+
+EndListe

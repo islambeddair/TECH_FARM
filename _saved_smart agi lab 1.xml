@@ -1,0 +1,772 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<export version="D">
+  <design>
+    <source>G:\Embedded hardware\smart agi lab 1.0\_saved_smart agi lab 1.0.sch</source>
+    <date>02/23/17 20:00:34</date>
+    <tool>Eeschema 4.0.2-stable</tool>
+    <sheet number="1" name="/" tstamps="/">
+      <title_block>
+        <title>CEO</title>
+        <company>Smart Agri Lab</company>
+        <rev>Eng.Islam Bedair</rev>
+        <date/>
+        <source>_saved_smart agi lab 1.0.sch</source>
+        <comment number="1" value=""/>
+        <comment number="2" value=""/>
+        <comment number="3" value=""/>
+        <comment number="4" value=""/>
+      </title_block>
+    </sheet>
+  </design>
+  <components>
+    <comp ref="IC1">
+      <value>ATMEGA328P-M</value>
+      <footprint>Housings_QFP:TQFP-32_7x7mm_Pitch0.8mm</footprint>
+      <libsource lib="atmel" part="ATMEGA328P-M"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>58ADC912</tstamp>
+    </comp>
+    <comp ref="C3">
+      <value>100nf</value>
+      <footprint>Capacitors_SMD:C_1206_HandSoldering</footprint>
+      <libsource lib="device" part="C_Small"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>58ADD406</tstamp>
+    </comp>
+    <comp ref="J1">
+      <value>JACK_2P</value>
+      <footprint>Connect:BARREL_JACK</footprint>
+      <libsource lib="device" part="JACK_2P"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>58ADD4AC</tstamp>
+    </comp>
+    <comp ref="R1">
+      <value>R</value>
+      <footprint>Resistors_SMD:R_1206_HandSoldering</footprint>
+      <libsource lib="device" part="R"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>58ADD578</tstamp>
+    </comp>
+    <comp ref="SW1">
+      <value>SW_PUSH</value>
+      <footprint>Buttons_Switches_ThroughHole:SW_PUSH_6mm_h4.3mm</footprint>
+      <libsource lib="device" part="SW_PUSH"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>58ADD60E</tstamp>
+    </comp>
+    <comp ref="P2">
+      <value>USB_to_TTL</value>
+      <footprint>Pin_Headers:Pin_Header_Straight_1x06_Pitch2.54mm</footprint>
+      <libsource lib="conn" part="CONN_01X06"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>58ADD745</tstamp>
+    </comp>
+    <comp ref="C1">
+      <value>100nf</value>
+      <footprint>Capacitors_ThroughHole:C_Disc_D7.0mm_W2.5mm_P5.00mm</footprint>
+      <libsource lib="device" part="C_Small"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>58AE77CA</tstamp>
+    </comp>
+    <comp ref="U1">
+      <value>LT1117-3.3</value>
+      <footprint>TO_SOT_Packages_SMD:SOT-223</footprint>
+      <libsource lib="regul" part="LM317EMP"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>58AEEFF7</tstamp>
+    </comp>
+    <comp ref="D1">
+      <value>Led_Small</value>
+      <footprint>LEDs:LED_D3.0mm</footprint>
+      <libsource lib="device" part="Led_Small"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>58AF4746</tstamp>
+    </comp>
+    <comp ref="R2">
+      <value>1k</value>
+      <footprint>Resistors_SMD:R_1206_HandSoldering</footprint>
+      <libsource lib="device" part="R_Small"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>58AF4DF5</tstamp>
+    </comp>
+    <comp ref="D2">
+      <value>Led_Small</value>
+      <footprint>LEDs:LED_D3.0mm</footprint>
+      <libsource lib="device" part="Led_Small"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>58AF5970</tstamp>
+    </comp>
+    <comp ref="R3">
+      <value>1k</value>
+      <footprint>Resistors_SMD:R_1206_HandSoldering</footprint>
+      <libsource lib="device" part="R_Small"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>58AF61A2</tstamp>
+    </comp>
+    <comp ref="R4">
+      <value>10k</value>
+      <footprint>Resistors_SMD:R_1206_HandSoldering</footprint>
+      <libsource lib="device" part="R_Small"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>58AF6F2D</tstamp>
+    </comp>
+    <comp ref="R5">
+      <value>10k</value>
+      <footprint>Resistors_SMD:R_1206_HandSoldering</footprint>
+      <libsource lib="device" part="R_Small"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>58AF6FEC</tstamp>
+    </comp>
+    <comp ref="SW2">
+      <value>SPST</value>
+      <footprint>Buttons_Switches_ThroughHole:SW_PUSH_x2</footprint>
+      <libsource lib="device" part="SPST"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>58B01407</tstamp>
+    </comp>
+    <comp ref="C2">
+      <value>100nf</value>
+      <footprint>Capacitors_SMD:C_1206_HandSoldering</footprint>
+      <libsource lib="device" part="C_Small"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>58B0B577</tstamp>
+    </comp>
+    <comp ref="P1">
+      <value>soil_sensor</value>
+      <footprint>Connect:AK300-3</footprint>
+      <libsource lib="conn" part="CONN_01X03"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>58B0EC78</tstamp>
+    </comp>
+    <comp ref="wifi_modul1">
+      <value>ESP8266</value>
+      <footprint>Esp12:esp12</footprint>
+      <libsource lib="_saved_smart agi lab 1.0-cache" part="ESP8266"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>58B1692C</tstamp>
+    </comp>
+    <comp ref="C5">
+      <value>10uf</value>
+      <footprint>Capacitors_SMD:C_1206_HandSoldering</footprint>
+      <libsource lib="device" part="CP1_Small"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>58B3A8A0</tstamp>
+    </comp>
+    <comp ref="C4">
+      <value>10uf</value>
+      <footprint>Capacitors_SMD:C_1206_HandSoldering</footprint>
+      <libsource lib="device" part="CP1_Small"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>58B3AF66</tstamp>
+    </comp>
+    <comp ref="C7">
+      <value>100nf</value>
+      <footprint>Capacitors_SMD:C_1206_HandSoldering</footprint>
+      <libsource lib="device" part="C_Small"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>58B3D855</tstamp>
+    </comp>
+    <comp ref="P5">
+      <value>temp_sensor</value>
+      <footprint>Connect:AK300-3</footprint>
+      <libsource lib="conn" part="CONN_01X03"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>58AED96E</tstamp>
+    </comp>
+    <comp ref="P6">
+      <value>air_sensor</value>
+      <footprint>Connect:AK300-3</footprint>
+      <libsource lib="conn" part="CONN_01X03"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>58AED986</tstamp>
+    </comp>
+    <comp ref="Y1">
+      <value>Crystal_Small</value>
+      <footprint>Crystals:Resonator-2pin_w7.0mm_h2.5mm</footprint>
+      <libsource lib="device" part="Crystal_Small"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>58AF10A1</tstamp>
+    </comp>
+    <comp ref="C6">
+      <value>C_Small</value>
+      <footprint>Capacitors_ThroughHole:C_Disc_D3.0mm_W2.0mm_P2.50mm</footprint>
+      <libsource lib="device" part="C_Small"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>58AF15EA</tstamp>
+    </comp>
+    <comp ref="C8">
+      <value>C_Small</value>
+      <footprint>Capacitors_ThroughHole:C_Disc_D3.0mm_W2.0mm_P2.50mm</footprint>
+      <libsource lib="device" part="C_Small"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>58AF16B2</tstamp>
+    </comp>
+    <comp ref="P7">
+      <value>CONN_01X04</value>
+      <footprint>Pin_Headers:Pin_Header_Straight_1x04_Pitch2.54mm</footprint>
+      <libsource lib="conn" part="CONN_01X04"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>58AF3CDC</tstamp>
+    </comp>
+    <comp ref="P8">
+      <value>CONN_01X04</value>
+      <footprint>Pin_Headers:Pin_Header_Straight_1x04_Pitch2.54mm</footprint>
+      <libsource lib="conn" part="CONN_01X04"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>58AF4BD2</tstamp>
+    </comp>
+    <comp ref="P3">
+      <value>salty_sensor</value>
+      <footprint>Connect:AK300-3</footprint>
+      <libsource lib="conn" part="CONN_01X03"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>58AF930F</tstamp>
+    </comp>
+    <comp ref="P4">
+      <value>CONN_01X03</value>
+      <footprint>Pin_Headers:Pin_Header_Straight_1x03_Pitch2.54mm</footprint>
+      <libsource lib="conn" part="CONN_01X03"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>58AFCFA0</tstamp>
+    </comp>
+    <comp ref="P9">
+      <value>CONN_01X03</value>
+      <footprint>Pin_Headers:Pin_Header_Straight_1x03_Pitch2.54mm</footprint>
+      <libsource lib="conn" part="CONN_01X03"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>58AFD53E</tstamp>
+    </comp>
+  </components>
+  <libparts>
+    <libpart lib="atmel" part="ATMEGA168A-M">
+      <aliases>
+        <alias>ATMEGA48A-M</alias>
+        <alias>ATMEGA48PA-M</alias>
+        <alias>ATMEGA88A-M</alias>
+        <alias>ATMEGA88PA-M</alias>
+        <alias>ATMEGA168PA-M</alias>
+        <alias>ATMEGA328-M</alias>
+        <alias>ATMEGA328P-M</alias>
+      </aliases>
+      <description>QFN/MLF32, 16k Flash, 1kB SRAM, 512B EEPROM</description>
+      <docs>http://www.atmel.com/images/atmel-8271-8-bit-avr-microcontroller-atmega48a-48pa-88a-88pa-168a-168pa-328-328p_datasheet.pdf</docs>
+      <fields>
+        <field name="Reference">IC</field>
+        <field name="Value">ATMEGA168A-M</field>
+        <field name="Footprint">MLF/QFN32</field>
+      </fields>
+      <pins>
+        <pin num="1" name="(PCINT19/OC2B/INT1)PD3" type="BiDi"/>
+        <pin num="2" name="(PCINT20/XCK/T0)PD4" type="BiDi"/>
+        <pin num="3" name="GND" type="power_in"/>
+        <pin num="4" name="VCC" type="power_in"/>
+        <pin num="5" name="GND" type="power_in"/>
+        <pin num="6" name="VCC" type="power_in"/>
+        <pin num="7" name="(PCINT6/XTAL1/TOSC1)PB6" type="BiDi"/>
+        <pin num="8" name="(PCINT7/XTAL2/TOSC2)PB7" type="BiDi"/>
+        <pin num="9" name="(PCINT21/OC0B/T1)PD5" type="BiDi"/>
+        <pin num="10" name="(PCINT22/OC0A/AIN0)PD6" type="BiDi"/>
+        <pin num="11" name="(PCINT23/AIN1)PD7" type="BiDi"/>
+        <pin num="12" name="(PCINT0/CLKO/ICP1)PB0" type="BiDi"/>
+        <pin num="13" name="(PCINT1/OC1A)PB1" type="BiDi"/>
+        <pin num="14" name="(PCINT2/OC1B/~SS~)PB2" type="BiDi"/>
+        <pin num="15" name="(PCINT3/OC2A/MOSI)PB3" type="BiDi"/>
+        <pin num="16" name="(PCINT4/MISO)PB4" type="BiDi"/>
+        <pin num="17" name="(PCINT5/SCK)PB5" type="BiDi"/>
+        <pin num="18" name="AVCC" type="power_in"/>
+        <pin num="19" name="ADC6" type="input"/>
+        <pin num="20" name="AREF" type="BiDi"/>
+        <pin num="21" name="GND" type="power_in"/>
+        <pin num="22" name="ADC7" type="input"/>
+        <pin num="23" name="(PCINT8/ADC0)PC0" type="BiDi"/>
+        <pin num="24" name="(PCINT9/ADC1)PC1" type="BiDi"/>
+        <pin num="25" name="(PCINT10/ADC2)PC2" type="BiDi"/>
+        <pin num="26" name="(PCINT11/ADC3)PC3" type="BiDi"/>
+        <pin num="27" name="(PCINT12/SDA/ADC4)PC4" type="BiDi"/>
+        <pin num="28" name="(PCINT13/SCL/ADC5)PC5" type="BiDi"/>
+        <pin num="29" name="(PCINT14/~RESET~)PC6" type="BiDi"/>
+        <pin num="30" name="(PCINT16/RXD)PD0" type="BiDi"/>
+        <pin num="31" name="(PCINT17/TXD)PD1" type="BiDi"/>
+        <pin num="32" name="(PCINT18/INT0)PD2" type="BiDi"/>
+      </pins>
+    </libpart>
+    <libpart lib="conn" part="CONN_01X03">
+      <description>Connector 01x03</description>
+      <footprints>
+        <fp>Pin_Header_Straight_1X03</fp>
+        <fp>Pin_Header_Angled_1X03</fp>
+        <fp>Socket_Strip_Straight_1X03</fp>
+        <fp>Socket_Strip_Angled_1X03</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">P</field>
+        <field name="Value">CONN_01X03</field>
+      </fields>
+      <pins>
+        <pin num="1" name="P1" type="passive"/>
+        <pin num="2" name="P2" type="passive"/>
+        <pin num="3" name="P3" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="conn" part="CONN_01X04">
+      <description>Connector 01x04</description>
+      <footprints>
+        <fp>Pin_Header_Straight_1X04</fp>
+        <fp>Pin_Header_Angled_1X04</fp>
+        <fp>Socket_Strip_Straight_1X04</fp>
+        <fp>Socket_Strip_Angled_1X04</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">P</field>
+        <field name="Value">CONN_01X04</field>
+      </fields>
+      <pins>
+        <pin num="1" name="P1" type="passive"/>
+        <pin num="2" name="P2" type="passive"/>
+        <pin num="3" name="P3" type="passive"/>
+        <pin num="4" name="P4" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="conn" part="CONN_01X06">
+      <description>Connector 01x06</description>
+      <footprints>
+        <fp>Pin_Header_Straight_1X06</fp>
+        <fp>Pin_Header_Angled_1X06</fp>
+        <fp>Socket_Strip_Straight_1X06</fp>
+        <fp>Socket_Strip_Angled_1X06</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">P</field>
+        <field name="Value">CONN_01X06</field>
+      </fields>
+      <pins>
+        <pin num="1" name="P1" type="passive"/>
+        <pin num="2" name="P2" type="passive"/>
+        <pin num="3" name="P3" type="passive"/>
+        <pin num="4" name="P4" type="passive"/>
+        <pin num="5" name="P5" type="passive"/>
+        <pin num="6" name="P6" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="device" part="CP1_Small">
+      <description>Polarised capacitor</description>
+      <footprints>
+        <fp>CP*</fp>
+        <fp>Elko*</fp>
+        <fp>TantalC*</fp>
+        <fp>C*elec</fp>
+        <fp>c_elec*</fp>
+        <fp>SMD*_Pol</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">C</field>
+        <field name="Value">CP1_Small</field>
+      </fields>
+      <pins>
+        <pin num="1" name="~" type="passive"/>
+        <pin num="2" name="~" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="device" part="C_Small">
+      <description>Unpolarized capacitor</description>
+      <footprints>
+        <fp>C?</fp>
+        <fp>C_????_*</fp>
+        <fp>C_????</fp>
+        <fp>SMD*_c</fp>
+        <fp>Capacitor*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">C</field>
+        <field name="Value">C_Small</field>
+      </fields>
+      <pins>
+        <pin num="1" name="~" type="passive"/>
+        <pin num="2" name="~" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="device" part="Crystal_Small">
+      <description>Two pin crystal</description>
+      <footprints>
+        <fp>Crystal_</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">Y</field>
+        <field name="Value">Crystal_Small</field>
+      </fields>
+      <pins>
+        <pin num="1" name="1" type="passive"/>
+        <pin num="2" name="2" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="_saved_smart agi lab 1.0-cache" part="ESP8266">
+      <fields>
+        <field name="Reference">U?</field>
+        <field name="Value">ESP8266</field>
+      </fields>
+      <pins>
+        <pin num="1" name="GND" type="power_in"/>
+        <pin num="2" name="GPIO15" type="power_in"/>
+        <pin num="3" name="GPIO2" type="power_in"/>
+        <pin num="4" name="GPIO0" type="input"/>
+        <pin num="5" name="GPIO5" type="power_in"/>
+        <pin num="6" name="GPIO4" type="BiDi"/>
+        <pin num="7" name="RXD" type="BiDi"/>
+        <pin num="8" name="TXD" type="BiDi"/>
+        <pin num="9" name="REST" type="input"/>
+        <pin num="10" name="RB4/SCL" type="BiDi"/>
+        <pin num="11" name="REST" type="input"/>
+        <pin num="12" name="GPIO16" type="BiDi"/>
+        <pin num="13" name="CH_PD" type="power_in"/>
+        <pin num="14" name="GPIO16" type="BiDi"/>
+        <pin num="15" name="GPIO14" type="BiDi"/>
+        <pin num="16" name="VCC" type="power_in"/>
+        <pin num="17" name="MTD0" type="BiDi"/>
+        <pin num="18" name="VCC" type="power_in"/>
+        <pin num="19" name="SD_3" type="BiDi"/>
+        <pin num="20" name="MTMS" type="BiDi"/>
+        <pin num="21" name="MTCK" type="output"/>
+        <pin num="22" name="SD_2" type="input"/>
+      </pins>
+    </libpart>
+    <libpart lib="device" part="JACK_2P">
+      <fields>
+        <field name="Reference">J</field>
+        <field name="Value">JACK_2P</field>
+      </fields>
+      <pins>
+        <pin num="1" name="~" type="passive"/>
+        <pin num="2" name="~" type="passive"/>
+        <pin num="3" name="~" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="regul" part="LM317EMP">
+      <aliases>
+        <alias>LM317AEMP</alias>
+      </aliases>
+      <description>1A 35V Adjustable Linear Regulator, SOT-223</description>
+      <docs>http://www.national.com/ds/LM/LM117.pdf</docs>
+      <footprints>
+        <fp>SOT*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">U</field>
+        <field name="Value">LM317EMP</field>
+        <field name="Footprint">SOT-223</field>
+      </fields>
+      <pins>
+        <pin num="1" name="ADJ" type="input"/>
+        <pin num="2" name="OUT" type="power_out"/>
+        <pin num="3" name="IN" type="input"/>
+      </pins>
+    </libpart>
+    <libpart lib="device" part="Led_Small">
+      <description>Led</description>
+      <footprints>
+        <fp>CP*</fp>
+        <fp>SM*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">D</field>
+        <field name="Value">Led_Small</field>
+      </fields>
+      <pins>
+        <pin num="1" name="K" type="passive"/>
+        <pin num="2" name="A" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="device" part="R">
+      <description>Resistor</description>
+      <footprints>
+        <fp>R_*</fp>
+        <fp>Resistor_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">R</field>
+        <field name="Value">R</field>
+      </fields>
+      <pins>
+        <pin num="1" name="~" type="passive"/>
+        <pin num="2" name="~" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="device" part="R_Small">
+      <description>Resistor</description>
+      <footprints>
+        <fp>Resistor_*</fp>
+        <fp>R_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">R</field>
+        <field name="Value">R_Small</field>
+      </fields>
+      <pins>
+        <pin num="1" name="~" type="passive"/>
+        <pin num="2" name="~" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="device" part="SPST">
+      <description>Interrupteur simple</description>
+      <fields>
+        <field name="Reference">SW</field>
+        <field name="Value">SPST</field>
+      </fields>
+      <pins>
+        <pin num="1" name="1" type="input"/>
+        <pin num="2" name="2" type="input"/>
+      </pins>
+    </libpart>
+    <libpart lib="device" part="SW_PUSH">
+      <description>Button</description>
+      <fields>
+        <field name="Reference">SW</field>
+        <field name="Value">SW_PUSH</field>
+      </fields>
+      <pins>
+        <pin num="1" name="1" type="passive"/>
+        <pin num="2" name="2" type="passive"/>
+      </pins>
+    </libpart>
+  </libparts>
+  <libraries>
+    <library logical="regul">
+      <uri>C:\Program Files\KiCad\share\kicad\library\regul.lib</uri>
+    </library>
+    <library logical="atmel">
+      <uri>C:\Program Files\KiCad\share\kicad\library\atmel.lib</uri>
+    </library>
+    <library logical="conn">
+      <uri>C:\Program Files\KiCad\share\kicad\library\conn.lib</uri>
+    </library>
+    <library logical="device">
+      <uri>C:\Program Files\KiCad\share\kicad\library\device.lib</uri>
+    </library>
+    <library logical="_saved_smart agi lab 1.0-cache">
+      <uri>G:\Embedded hardware\smart agi lab 1.0\_saved_smart agi lab 1.0-cache.lib</uri>
+    </library>
+  </libraries>
+  <nets>
+    <net code="1" name="mosi">
+      <node ref="IC1" pin="15"/>
+      <node ref="P9" pin="2"/>
+    </net>
+    <net code="2" name="miso">
+      <node ref="P4" pin="1"/>
+      <node ref="IC1" pin="16"/>
+    </net>
+    <net code="3" name="sck">
+      <node ref="IC1" pin="17"/>
+      <node ref="P4" pin="2"/>
+      <node ref="R3" pin="2"/>
+    </net>
+    <net code="4" name="A6">
+      <node ref="IC1" pin="19"/>
+      <node ref="P3" pin="1"/>
+    </net>
+    <net code="5" name="Net-(IC1-Pad27)">
+      <node ref="R4" pin="1"/>
+      <node ref="IC1" pin="27"/>
+    </net>
+    <net code="6" name="Net-(IC1-Pad28)">
+      <node ref="R5" pin="1"/>
+      <node ref="IC1" pin="28"/>
+    </net>
+    <net code="7" name="RXI">
+      <node ref="IC1" pin="30"/>
+      <node ref="P2" pin="3"/>
+    </net>
+    <net code="8" name="TXO">
+      <node ref="P2" pin="2"/>
+      <node ref="IC1" pin="31"/>
+    </net>
+    <net code="9" name="VCC">
+      <node ref="P6" pin="2"/>
+      <node ref="P5" pin="2"/>
+      <node ref="IC1" pin="6"/>
+      <node ref="IC1" pin="4"/>
+      <node ref="P2" pin="4"/>
+      <node ref="R4" pin="2"/>
+      <node ref="SW2" pin="2"/>
+      <node ref="R5" pin="2"/>
+      <node ref="R1" pin="1"/>
+      <node ref="IC1" pin="18"/>
+      <node ref="P9" pin="3"/>
+      <node ref="P1" pin="2"/>
+      <node ref="wifi_modul1" pin="16"/>
+      <node ref="wifi_modul1" pin="11"/>
+      <node ref="P3" pin="2"/>
+      <node ref="wifi_modul1" pin="3"/>
+      <node ref="C2" pin="1"/>
+    </net>
+    <net code="10" name="RESET">
+      <node ref="IC1" pin="29"/>
+      <node ref="C1" pin="2"/>
+      <node ref="SW1" pin="1"/>
+      <node ref="P4" pin="3"/>
+      <node ref="wifi_modul1" pin="9"/>
+      <node ref="R1" pin="2"/>
+    </net>
+    <net code="11" name="DTR">
+      <node ref="C1" pin="1"/>
+      <node ref="P2" pin="1"/>
+    </net>
+    <net code="12" name="Net-(C3-Pad1)">
+      <node ref="IC1" pin="20"/>
+      <node ref="C3" pin="1"/>
+    </net>
+    <net code="13" name="Net-(D1-Pad1)">
+      <node ref="R2" pin="1"/>
+      <node ref="D1" pin="1"/>
+    </net>
+    <net code="14" name="Net-(C4-Pad1)">
+      <node ref="J1" pin="3"/>
+      <node ref="U1" pin="3"/>
+      <node ref="C4" pin="1"/>
+    </net>
+    <net code="15" name="Net-(D2-Pad2)">
+      <node ref="D2" pin="2"/>
+      <node ref="R3" pin="1"/>
+    </net>
+    <net code="16" name="Net-(IC1-Pad9)">
+      <node ref="IC1" pin="9"/>
+      <node ref="P7" pin="2"/>
+    </net>
+    <net code="17" name="Net-(IC1-Pad10)">
+      <node ref="P7" pin="3"/>
+      <node ref="IC1" pin="10"/>
+    </net>
+    <net code="18" name="Net-(IC1-Pad11)">
+      <node ref="P7" pin="4"/>
+      <node ref="IC1" pin="11"/>
+    </net>
+    <net code="19" name="Net-(IC1-Pad32)">
+      <node ref="P8" pin="1"/>
+      <node ref="IC1" pin="32"/>
+    </net>
+    <net code="20" name="Net-(C8-Pad1)">
+      <node ref="Y1" pin="2"/>
+      <node ref="C8" pin="1"/>
+      <node ref="IC1" pin="8"/>
+    </net>
+    <net code="21" name="Net-(C6-Pad1)">
+      <node ref="C6" pin="1"/>
+      <node ref="Y1" pin="1"/>
+      <node ref="IC1" pin="7"/>
+    </net>
+    <net code="22" name="/TX1">
+      <node ref="IC1" pin="13"/>
+      <node ref="wifi_modul1" pin="7"/>
+    </net>
+    <net code="23" name="/RX1">
+      <node ref="wifi_modul1" pin="8"/>
+      <node ref="IC1" pin="12"/>
+    </net>
+    <net code="24" name="Net-(IC1-Pad2)">
+      <node ref="P8" pin="3"/>
+      <node ref="IC1" pin="2"/>
+    </net>
+    <net code="25" name="GND">
+      <node ref="wifi_modul1" pin="2"/>
+      <node ref="IC1" pin="3"/>
+      <node ref="IC1" pin="5"/>
+      <node ref="J1" pin="2"/>
+      <node ref="J1" pin="1"/>
+      <node ref="C3" pin="2"/>
+      <node ref="wifi_modul1" pin="1"/>
+      <node ref="C2" pin="2"/>
+      <node ref="C5" pin="2"/>
+      <node ref="C7" pin="1"/>
+      <node ref="C4" pin="2"/>
+      <node ref="SW1" pin="2"/>
+      <node ref="P1" pin="3"/>
+      <node ref="P5" pin="3"/>
+      <node ref="P6" pin="3"/>
+      <node ref="P2" pin="5"/>
+      <node ref="P2" pin="6"/>
+      <node ref="P8" pin="4"/>
+      <node ref="P7" pin="1"/>
+      <node ref="C8" pin="2"/>
+      <node ref="C6" pin="2"/>
+      <node ref="P9" pin="1"/>
+      <node ref="P3" pin="3"/>
+      <node ref="U1" pin="1"/>
+      <node ref="D2" pin="1"/>
+      <node ref="R2" pin="2"/>
+      <node ref="IC1" pin="21"/>
+    </net>
+    <net code="26" name="Net-(IC1-Pad1)">
+      <node ref="P8" pin="2"/>
+      <node ref="IC1" pin="1"/>
+    </net>
+    <net code="27" name="Net-(C5-Pad1)">
+      <node ref="U1" pin="2"/>
+      <node ref="C5" pin="1"/>
+      <node ref="SW2" pin="1"/>
+      <node ref="D1" pin="2"/>
+      <node ref="C7" pin="2"/>
+    </net>
+    <net code="28" name="A7">
+      <node ref="P1" pin="1"/>
+      <node ref="IC1" pin="22"/>
+    </net>
+    <net code="29" name="A2">
+      <node ref="IC1" pin="25"/>
+      <node ref="P6" pin="1"/>
+    </net>
+    <net code="30" name="A1">
+      <node ref="P5" pin="1"/>
+      <node ref="IC1" pin="24"/>
+    </net>
+    <net code="32" name="Net-(IC1-Pad26)">
+      <node ref="IC1" pin="26"/>
+    </net>
+    <net code="33" name="Net-(IC1-Pad14)">
+      <node ref="IC1" pin="14"/>
+    </net>
+    <net code="34" name="Net-(IC1-Pad23)">
+      <node ref="IC1" pin="23"/>
+    </net>
+    <net code="35" name="Net-(wifi_modul1-Pad15)">
+      <node ref="wifi_modul1" pin="15"/>
+    </net>
+    <net code="36" name="Net-(wifi_modul1-Pad14)">
+      <node ref="wifi_modul1" pin="14"/>
+    </net>
+    <net code="37" name="Net-(wifi_modul1-Pad13)">
+      <node ref="wifi_modul1" pin="13"/>
+    </net>
+    <net code="38" name="Net-(wifi_modul1-Pad12)">
+      <node ref="wifi_modul1" pin="12"/>
+    </net>
+    <net code="39" name="Net-(wifi_modul1-Pad4)">
+      <node ref="wifi_modul1" pin="4"/>
+    </net>
+    <net code="40" name="Net-(wifi_modul1-Pad6)">
+      <node ref="wifi_modul1" pin="6"/>
+    </net>
+    <net code="41" name="Net-(wifi_modul1-Pad5)">
+      <node ref="wifi_modul1" pin="5"/>
+    </net>
+    <net code="42" name="Net-(wifi_modul1-Pad17)">
+      <node ref="wifi_modul1" pin="17"/>
+    </net>
+    <net code="43" name="Net-(wifi_modul1-Pad18)">
+      <node ref="wifi_modul1" pin="18"/>
+    </net>
+    <net code="44" name="Net-(wifi_modul1-Pad19)">
+      <node ref="wifi_modul1" pin="19"/>
+    </net>
+    <net code="45" name="Net-(wifi_modul1-Pad20)">
+      <node ref="wifi_modul1" pin="20"/>
+    </net>
+    <net code="46" name="Net-(wifi_modul1-Pad21)">
+      <node ref="wifi_modul1" pin="21"/>
+    </net>
+    <net code="47" name="Net-(wifi_modul1-Pad22)">
+      <node ref="wifi_modul1" pin="22"/>
+    </net>
+    <net code="48" name="Net-(wifi_modul1-Pad10)">
+      <node ref="wifi_modul1" pin="10"/>
+    </net>
+  </nets>
+</export>
